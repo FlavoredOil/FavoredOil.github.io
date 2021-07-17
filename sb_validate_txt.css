@@ -14,7 +14,7 @@
 
 /* Validation Styles */
 input:not([type = 'radio']):focus{
-   background-color: rgb(255, 218, 168);
+   background-color: rgb(255, 218, 169);
 }
 
 input[type = 'radio']:focus{
